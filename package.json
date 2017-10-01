@@ -1,0 +1,11 @@
+{
+  "name": "camper",
+  "version": "1.0.0",
+  "description": "* See a table of the FreeCodeCamp campers who've earned the most brownie points in the past 30 days. * See how many brownie points they've earned in the past 30 days, and how many they've earned total. * Toggle between sorting the list by how many brownie points they've earned in the past 30 days and by how many brownie points they've earned total.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
